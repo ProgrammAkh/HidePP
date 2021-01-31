@@ -1,7 +1,7 @@
 # HidePP
 Extension Chrome permettant de masquer les photos de profil sur twitter
 
-Pour télécharger les fichier , appuyer sur le bouton Code (en vert) puis sur download zip
+Pour télécharger les fichiers , appuyer sur le bouton Code (en vert) puis sur download zip
 
 Afin de rajouter l'extension sur chrome: 
 1) Allez sur chrome, rentrer l'adresse chrome://extensions/ 
