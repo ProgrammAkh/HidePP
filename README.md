@@ -9,3 +9,5 @@ Afin de rajouter l'extension sur chrome:
 3) Cliquez sur le bouton : "Charger l'extension non empaquetée" (en haut à gauche)
 4) Sélectionnez le dossier de l'extension que vous avez télecharger
 5) C'est bon
+
+Mise à jour : l'extension masque aussi les tendances pour plus de tranquilité
