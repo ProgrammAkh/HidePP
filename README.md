@@ -11,3 +11,5 @@ Afin de rajouter l'extension sur chrome:
 5) C'est bon
 
 Mise à jour : l'extension masque aussi les tendances pour plus de tranquilité
+
+Vous pouvez toutefois, toujours voir la photo de profil en passant la souris sur le @ de la personne ou en allant sur son profil
